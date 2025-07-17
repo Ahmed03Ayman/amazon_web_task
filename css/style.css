@@ -97,7 +97,7 @@
 .Header-ul li:hover::after{
     height: 10%;
     width: 100%;
-    opacity: 0.5;
+    opacity: 0.8;
     transition: 0.5s;
 }
 .Agency{
